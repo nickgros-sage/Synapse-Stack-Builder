@@ -96,7 +96,7 @@
 				"Engine": "MySQL",
 				"EngineVersion": "5.6.34",
 				"LicenseModel": "general-public-license",
-				"MasterUsername": "${stack}${instance}user",
+				"MasterUsername": "nickgrostest",
 				"MasterUserPassword": {
 					"Ref": "MySQLDatabaseMasterPassword"
 				},
